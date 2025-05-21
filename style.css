@@ -4,7 +4,6 @@
     --overweight: lightcoral;
     --obese: crimson;
   }
-  
   * {
     box-sizing: border-box;
     padding: 0;
